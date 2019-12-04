@@ -1,0 +1,23 @@
+{
+  "name": "@skivy71/utils",
+  "version": "1.0.0",
+  "description": "skivy71 utilities module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiv71/utils.git"
+  },
+  "keywords": [
+    "skivy71",
+    "utilities"
+  ],
+  "author": "Neil Duffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiv71/utils/issues"
+  },
+  "homepage": "https://github.com/skiv71/utils#readme"
+}
